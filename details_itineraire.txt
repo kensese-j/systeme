@@ -1,0 +1,32 @@
+DÉTAILS DES ITINÉRAIRES
+=======================
+
+POINTS SPÉCIAUX:
+D - Point de départ
+A - Point d'arrivée
+
+ÉTAPES PAR NUMÉRO:
+1: Head east toward Av. De La Victoire (Itinéraire 1, Étape 1)
+2: Exit the roundabout onto Av. De La Victoire (Itinéraire 1, Étape 2)
+3: At the roundabout, take the 2nd exit and stay on Av. De La Victoire (Itinéraire 1, Étape 3)
+4: At the roundabout, take the 1st exit (Itinéraire 1, Étape 4)
+5: Continue onto Ave Des Huileries (Itinéraire 1, Étape 5)
+6: Continue onto Av. De La Démocratie (Itinéraire 1, Étape 6)
+7: Continue onto Ave Des HuileriesContinue to follow Av. De La Démocratie (Itinéraire 1, Étape 7)
+8: Turn right onto Bd Du 30 Juin (Itinéraire 1, Étape 8)
+9: Continue onto Place de la Gare (Itinéraire 1, Étape 9)
+10: Turn left toward Av. Des Senegalais (Itinéraire 1, Étape 10)
+11: Merge onto Av. Des SenegalaisDestination will be on the right (Itinéraire 1, Étape 11)
+12: Head east toward Av. De La Victoire (Itinéraire 2, Étape 1)
+13: Exit the roundabout onto Av. De La Victoire (Itinéraire 2, Étape 2)
+14: At the roundabout, take the 2nd exit and stay on Av. De La Victoire (Itinéraire 2, Étape 3)
+15: At the roundabout, take the 1st exit (Itinéraire 2, Étape 4)
+16: Continue onto Ave Des Huileries (Itinéraire 2, Étape 5)
+17: Turn left onto Boulevard Triomphal/N1 (Itinéraire 2, Étape 6)
+18: Turn right at the 1st cross street (Itinéraire 2, Étape 7)
+19: Turn left (Itinéraire 2, Étape 8)
+20: Turn right onto Av. Du 24 Novembre (Itinéraire 2, Étape 9)
+21: Turn right onto Bd Du 30 Juin (Itinéraire 2, Étape 10)
+22: Continue onto Place de la Gare (Itinéraire 2, Étape 11)
+23: Turn left toward Av. Des Senegalais (Itinéraire 2, Étape 12)
+24: Merge onto Av. Des SenegalaisDestination will be on the right (Itinéraire 2, Étape 13)

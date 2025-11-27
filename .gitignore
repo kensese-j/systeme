@@ -1,0 +1,31 @@
+# Environnements Python
+venv/
+env/
+.venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de configuration sensible
+config.py
+secrets.toml
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Fichiers de données temporaires
+*.csv
+*.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers Streamlit
+.streamlit/secrets.toml
